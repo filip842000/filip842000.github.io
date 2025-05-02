@@ -135,24 +135,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'graduation-cap',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Esse3',
+					link: 'https://www.esse3.unimore.it/auth/studente/HomePageStudente.do',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Media',
+					link: 'https://docs.google.com/spreadsheets/d/1PXs0xQ4ra_sr2I2d1jAuoxxXj8LBFyDOBNkrAozoH7w/edit?usp=sharing',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Virtual Machine',
+					link: 'https://mydesk.unimore.it/uds/page/login',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Moodle',
+					link: 'https://moodle.unimore.it/course/index.php?categoryid=2338',
 				},
 			],
 		},
@@ -183,7 +183,7 @@ const CONFIG = {
 	// Second Links Container
 	secondListsContainer: [
 		{
-			icon: 'binary',
+			icon: 'briefcase',
 			id: '1',
 			links: [
 				{
